@@ -5,13 +5,11 @@ Ngày 24/10/2019 câu lạc bộ An toàn thông tin ĐH BKHCM - Efiens tổ ch�
 ## Picture Cipher ##
 Ở bài này, người ra đề cho ta 3 file: plaintexGen.py, PictureCipher.exe và encrypted.png
 
--
 Theo thói quen thì mở file code python ra đọc trước:
 ![](https://i.imgur.com/YDBHY31.png)
 
 File này khá đơn giản, nó lấy từng ký tự của flag ra bỏ vào đầu dòng sau đó thêm một đống ký tự cho dòng dài ra rồi cuối cùng bỏ hết vào một file có tên là plaintext.txt
 
--
 Tiếp đến là file PictureCipher.exe. File run trên window kìa, chạy thử phát
 
 ![](https://i.imgur.com/7i6ictU.png)
