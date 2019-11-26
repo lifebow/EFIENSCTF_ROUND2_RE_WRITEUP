@@ -95,9 +95,9 @@ Hè hè lần này flag submit được rồi : EFIENSCTF{A462B110323179EB98AC0A
 ## License2 
 Lần này đề cho một file ELF64 như thói quen thôi mình bỏ vào ida và bắt đầu vọc.
 
-Mò tới hàm main mình phát hiện có mỗi hàm validate_flag là có giá trị:
+Mò tới hàm main mình thấy có mỗi hàm validate_flag là có giá trị:
 
-Vào hàm này coi thì mình phát hiện ra, flag sẽ được in ra sau một số lần mình nhập đúng input password thôi, mà input password thì nó lồ lộ trong hàm này luôn rồi.
+Vào hàm này coi thì mình nhận ra: flag sẽ được in ra sau một số lần mình nhập đúng input password thôi, mà input password thì nó lồ lộ trong hàm này luôn rồi.
 
 ![](https://i.imgur.com/TUovsle.png) 
 
