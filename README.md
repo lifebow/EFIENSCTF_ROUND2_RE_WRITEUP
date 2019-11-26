@@ -92,7 +92,7 @@ Mình có viết một đoạn script python để solve:
 Hè hè lần này flag submit được rồi : EFIENSCTF{A462B110323179EB98AC0A0786D66F57}
 
 
-##License2 
+## License2 
 Lần này đề cho một file ELF64 như thói quen thôi mình bỏ vào ida và bắt đầu vọc.
 
 Mò tới hàm main mình phát hiện có mỗi hàm validate_flag là có giá trị:
